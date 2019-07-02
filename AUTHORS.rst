@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
+* Sivaranjani (New contributor)
 * Anthony 
 
 
